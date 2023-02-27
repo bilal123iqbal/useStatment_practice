@@ -1,0 +1,12 @@
+ .sbmtform{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sbmtform input {
+    margin-bottom: 10px;
+  }
+  
+  .sbmtform button {
+    margin-top: 10px;
+  }
